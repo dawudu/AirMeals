@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "628860112863",
+    "firebase_url": "https://airmeals-afdf5.firebaseio.com",
+    "project_id": "airmeals-afdf5",
+    "storage_bucket": "airmeals-afdf5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628860112863:android:53239a0824622737",
+        "android_client_info": {
+          "package_name": "com.notify.dawudu.airmeals"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628860112863-4bfreh8lfvvbvnicu2q8f0eg3l53v1kg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.notify.dawudu.airmeals",
+            "certificate_hash": "f21de794dcba4cdd9da84bdf783a33b61d6447c1"
+          }
+        },
+        {
+          "client_id": "628860112863-tu28t3bugpebs12e43kgihppge5ef3su.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo6gYEpFWg9YCZQERq36jxQY63WFdipJM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628860112863-tu28t3bugpebs12e43kgihppge5ef3su.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
